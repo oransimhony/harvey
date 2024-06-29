@@ -1,0 +1,4 @@
+memory_contents.bin
+memory_contents.hex
+*.bin
+riscv-tests
